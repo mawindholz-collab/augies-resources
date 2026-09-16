@@ -1,0 +1,1506 @@
+{
+  "id": "axxessCrossReference",
+  "name": "Axxess Key Blank Cross Reference",
+  "version": "2026-09-16-v1",
+  "updatedAt": "2026-09-16",
+  "source": "Axxess Key Blank Cross Reference chart supplied by user",
+  "recordCount": 94,
+  "records": [
+    {
+      "id": "axxess-2",
+      "axxessNumber": "2",
+      "oemBrand": "Emco/Pado",
+      "ilco": "1528",
+      "ilcoEz": "",
+      "notes": "Storm doors",
+      "sourcePage": 1,
+      "description": "Axxess 2 cross reference",
+      "crossReferences": [
+        "Axxess 2",
+        "1528"
+      ],
+      "searchTerms": "2 Axxess 2 Emco/Pado 1528 Storm doors"
+    },
+    {
+      "id": "axxess-3",
+      "axxessNumber": "3",
+      "oemBrand": "Emco/Pado",
+      "ilco": "1528R",
+      "ilcoEz": "",
+      "notes": "Storm doors",
+      "sourcePage": 1,
+      "description": "Axxess 3 cross reference",
+      "crossReferences": [
+        "Axxess 3",
+        "1528R"
+      ],
+      "searchTerms": "3 Axxess 3 Emco/Pado 1528R Storm doors"
+    },
+    {
+      "id": "axxess-4",
+      "axxessNumber": "4",
+      "oemBrand": "GM",
+      "ilco": "P1098A",
+      "ilcoEz": "B48",
+      "notes": "GM \"A\"",
+      "sourcePage": 1,
+      "description": "Axxess 4 cross reference",
+      "crossReferences": [
+        "Axxess 4",
+        "P1098A",
+        "B48"
+      ],
+      "searchTerms": "4 Axxess 4 GM P1098A B48 GM \"A\""
+    },
+    {
+      "id": "axxess-5",
+      "axxessNumber": "5",
+      "oemBrand": "GM",
+      "ilco": "P1098C",
+      "ilcoEz": "B50",
+      "notes": "GM \"C\"",
+      "sourcePage": 1,
+      "description": "Axxess 5 cross reference",
+      "crossReferences": [
+        "Axxess 5",
+        "P1098C",
+        "B50"
+      ],
+      "searchTerms": "5 Axxess 5 GM P1098C B50 GM \"C\""
+    },
+    {
+      "id": "axxess-6",
+      "axxessNumber": "6",
+      "oemBrand": "GM",
+      "ilco": "P1098E",
+      "ilcoEz": "B44",
+      "notes": "GM \"E\"",
+      "sourcePage": 1,
+      "description": "Axxess 6 cross reference",
+      "crossReferences": [
+        "Axxess 6",
+        "P1098E",
+        "B44"
+      ],
+      "searchTerms": "6 Axxess 6 GM P1098E B44 GM \"E\""
+    },
+    {
+      "id": "axxess-7",
+      "axxessNumber": "7",
+      "oemBrand": "GM",
+      "ilco": "P1098J",
+      "ilcoEz": "B46",
+      "notes": "GM \"J\"",
+      "sourcePage": 1,
+      "description": "Axxess 7 cross reference",
+      "crossReferences": [
+        "Axxess 7",
+        "P1098J",
+        "B46"
+      ],
+      "searchTerms": "7 Axxess 7 GM P1098J B46 GM \"J\""
+    },
+    {
+      "id": "axxess-8",
+      "axxessNumber": "8",
+      "oemBrand": "GM",
+      "ilco": "S1098B",
+      "ilcoEz": "B49",
+      "notes": "GM \"B\"",
+      "sourcePage": 1,
+      "description": "Axxess 8 cross reference",
+      "crossReferences": [
+        "Axxess 8",
+        "S1098B",
+        "B49"
+      ],
+      "searchTerms": "8 Axxess 8 GM S1098B B49 GM \"B\""
+    },
+    {
+      "id": "axxess-9",
+      "axxessNumber": "9",
+      "oemBrand": "GM",
+      "ilco": "S1098D",
+      "ilcoEz": "B51",
+      "notes": "GM \"D\"",
+      "sourcePage": 1,
+      "description": "Axxess 9 cross reference",
+      "crossReferences": [
+        "Axxess 9",
+        "S1098D",
+        "B51"
+      ],
+      "searchTerms": "9 Axxess 9 GM S1098D B51 GM \"D\""
+    },
+    {
+      "id": "axxess-10",
+      "axxessNumber": "10",
+      "oemBrand": "GM",
+      "ilco": "S1098H",
+      "ilcoEz": "B45",
+      "notes": "GM \"H\"",
+      "sourcePage": 1,
+      "description": "Axxess 10 cross reference",
+      "crossReferences": [
+        "Axxess 10",
+        "S1098H",
+        "B45"
+      ],
+      "searchTerms": "10 Axxess 10 GM S1098H B45 GM \"H\""
+    },
+    {
+      "id": "axxess-11",
+      "axxessNumber": "11",
+      "oemBrand": "GM",
+      "ilco": "S1098K",
+      "ilcoEz": "B47",
+      "notes": "GM \"K\"",
+      "sourcePage": 1,
+      "description": "Axxess 11 cross reference",
+      "crossReferences": [
+        "Axxess 11",
+        "S1098K",
+        "B47"
+      ],
+      "searchTerms": "11 Axxess 11 GM S1098K B47 GM \"K\""
+    },
+    {
+      "id": "axxess-12",
+      "axxessNumber": "12",
+      "oemBrand": "GM",
+      "ilco": "P1099",
+      "ilcoEz": "B68",
+      "notes": "GM Double Sided",
+      "sourcePage": 1,
+      "description": "Axxess 12 cross reference",
+      "crossReferences": [
+        "Axxess 12",
+        "P1099",
+        "B68"
+      ],
+      "searchTerms": "12 Axxess 12 GM P1099 B68 GM Double Sided"
+    },
+    {
+      "id": "axxess-13",
+      "axxessNumber": "13",
+      "oemBrand": "Saturn",
+      "ilco": "P1100",
+      "ilcoEz": "B76",
+      "notes": "",
+      "sourcePage": 1,
+      "description": "Axxess 13 cross reference",
+      "crossReferences": [
+        "Axxess 13",
+        "P1100",
+        "B76"
+      ],
+      "searchTerms": "13 Axxess 13 Saturn P1100 B76"
+    },
+    {
+      "id": "axxess-14",
+      "axxessNumber": "14",
+      "oemBrand": "GM",
+      "ilco": "P1006",
+      "ilcoEz": "B86",
+      "notes": "",
+      "sourcePage": 1,
+      "description": "Axxess 14 cross reference",
+      "crossReferences": [
+        "Axxess 14",
+        "P1006",
+        "B86"
+      ],
+      "searchTerms": "14 Axxess 14 GM P1006 B86"
+    },
+    {
+      "id": "axxess-15",
+      "axxessNumber": "15",
+      "oemBrand": "Chrysler",
+      "ilco": "P1770U",
+      "ilcoEz": "Y152",
+      "notes": "",
+      "sourcePage": 1,
+      "description": "Axxess 15 cross reference",
+      "crossReferences": [
+        "Axxess 15",
+        "P1770U",
+        "Y152"
+      ],
+      "searchTerms": "15 Axxess 15 Chrysler P1770U Y152"
+    },
+    {
+      "id": "axxess-16",
+      "axxessNumber": "16",
+      "oemBrand": "AM/Jeep/Renault",
+      "ilco": "1970AM",
+      "ilcoEz": "RA4",
+      "notes": "",
+      "sourcePage": 1,
+      "description": "Axxess 16 cross reference",
+      "crossReferences": [
+        "Axxess 16",
+        "1970AM",
+        "RA4"
+      ],
+      "searchTerms": "16 Axxess 16 AM/Jeep/Renault 1970AM RA4"
+    },
+    {
+      "id": "axxess-17",
+      "axxessNumber": "17",
+      "oemBrand": "Chrysler",
+      "ilco": "P1793",
+      "ilcoEz": "Y155",
+      "notes": "",
+      "sourcePage": 1,
+      "description": "Axxess 17 cross reference",
+      "crossReferences": [
+        "Axxess 17",
+        "P1793",
+        "Y155"
+      ],
+      "searchTerms": "17 Axxess 17 Chrysler P1793 Y155"
+    },
+    {
+      "id": "axxess-18",
+      "axxessNumber": "18",
+      "oemBrand": "Chyrsler",
+      "ilco": "S1770U",
+      "ilcoEz": "Y149",
+      "notes": "",
+      "sourcePage": 1,
+      "description": "Axxess 18 cross reference",
+      "crossReferences": [
+        "Axxess 18",
+        "S1770U",
+        "Y149"
+      ],
+      "searchTerms": "18 Axxess 18 Chyrsler S1770U Y149"
+    },
+    {
+      "id": "axxess-20",
+      "axxessNumber": "20",
+      "oemBrand": "Ford",
+      "ilco": "1190LN",
+      "ilcoEz": "H60",
+      "notes": "",
+      "sourcePage": 1,
+      "description": "Axxess 20 cross reference",
+      "crossReferences": [
+        "Axxess 20",
+        "1190LN",
+        "H60"
+      ],
+      "searchTerms": "20 Axxess 20 Ford 1190LN H60"
+    },
+    {
+      "id": "axxess-21",
+      "axxessNumber": "21",
+      "oemBrand": "Ford",
+      "ilco": "S1167FD",
+      "ilcoEz": "H50",
+      "notes": "",
+      "sourcePage": 1,
+      "description": "Axxess 21 cross reference",
+      "crossReferences": [
+        "Axxess 21",
+        "S1167FD",
+        "H50"
+      ],
+      "searchTerms": "21 Axxess 21 Ford S1167FD H50"
+    },
+    {
+      "id": "axxess-23",
+      "axxessNumber": "23",
+      "oemBrand": "Ford",
+      "ilco": "1167FD",
+      "ilcoEz": "H51",
+      "notes": "",
+      "sourcePage": 1,
+      "description": "Axxess 23 cross reference",
+      "crossReferences": [
+        "Axxess 23",
+        "1167FD",
+        "H51"
+      ],
+      "searchTerms": "23 Axxess 23 Ford 1167FD H51"
+    },
+    {
+      "id": "axxess-24",
+      "axxessNumber": "24",
+      "oemBrand": "Ford",
+      "ilco": "1196FD",
+      "ilcoEz": "H75",
+      "notes": "",
+      "sourcePage": 1,
+      "description": "Axxess 24 cross reference",
+      "crossReferences": [
+        "Axxess 24",
+        "1196FD",
+        "H75"
+      ],
+      "searchTerms": "24 Axxess 24 Ford 1196FD H75"
+    },
+    {
+      "id": "axxess-26",
+      "axxessNumber": "26",
+      "oemBrand": "Honda",
+      "ilco": "X181",
+      "ilcoEz": "HD90",
+      "notes": "",
+      "sourcePage": 1,
+      "description": "Axxess 26 cross reference",
+      "crossReferences": [
+        "Axxess 26",
+        "X181",
+        "HD90"
+      ],
+      "searchTerms": "26 Axxess 26 Honda X181 HD90"
+    },
+    {
+      "id": "axxess-27",
+      "axxessNumber": "27",
+      "oemBrand": "Honda",
+      "ilco": "X214",
+      "ilcoEz": "HD103",
+      "notes": "",
+      "sourcePage": 1,
+      "description": "Axxess 27 cross reference",
+      "crossReferences": [
+        "Axxess 27",
+        "X214",
+        "HD103"
+      ],
+      "searchTerms": "27 Axxess 27 Honda X214 HD103"
+    },
+    {
+      "id": "axxess-30",
+      "axxessNumber": "30",
+      "oemBrand": "Toyota",
+      "ilco": "X137",
+      "ilcoEz": "TR33",
+      "notes": "",
+      "sourcePage": 1,
+      "description": "Axxess 30 cross reference",
+      "crossReferences": [
+        "Axxess 30",
+        "X137",
+        "TR33"
+      ],
+      "searchTerms": "30 Axxess 30 Toyota X137 TR33"
+    },
+    {
+      "id": "axxess-31",
+      "axxessNumber": "31",
+      "oemBrand": "Toyota",
+      "ilco": "X211",
+      "ilcoEz": "TR44",
+      "notes": "",
+      "sourcePage": 1,
+      "description": "Axxess 31 cross reference",
+      "crossReferences": [
+        "Axxess 31",
+        "X211",
+        "TR44"
+      ],
+      "searchTerms": "31 Axxess 31 Toyota X211 TR44"
+    },
+    {
+      "id": "axxess-32",
+      "axxessNumber": "32",
+      "oemBrand": "GM/Toyota",
+      "ilco": "X145",
+      "ilcoEz": "B55",
+      "notes": "",
+      "sourcePage": 1,
+      "description": "Axxess 32 cross reference",
+      "crossReferences": [
+        "Axxess 32",
+        "X145",
+        "B55"
+      ],
+      "searchTerms": "32 Axxess 32 GM/Toyota X145 B55"
+    },
+    {
+      "id": "axxess-33",
+      "axxessNumber": "33",
+      "oemBrand": "Toyota",
+      "ilco": "X151",
+      "ilcoEz": "TR39",
+      "notes": "",
+      "sourcePage": 1,
+      "description": "Axxess 33 cross reference",
+      "crossReferences": [
+        "Axxess 33",
+        "X151",
+        "TR39"
+      ],
+      "searchTerms": "33 Axxess 33 Toyota X151 TR39"
+    },
+    {
+      "id": "axxess-35",
+      "axxessNumber": "35",
+      "oemBrand": "Toyota",
+      "ilco": "X217",
+      "ilcoEz": "TR47",
+      "notes": "",
+      "sourcePage": 1,
+      "description": "Axxess 35 cross reference",
+      "crossReferences": [
+        "Axxess 35",
+        "X217",
+        "TR47"
+      ],
+      "searchTerms": "35 Axxess 35 Toyota X217 TR47"
+    },
+    {
+      "id": "axxess-37",
+      "axxessNumber": "37",
+      "oemBrand": "Nissan/Subaru",
+      "ilco": "X123",
+      "ilcoEz": "DA25",
+      "notes": "",
+      "sourcePage": 2,
+      "description": "Axxess 37 cross reference",
+      "crossReferences": [
+        "Axxess 37",
+        "X123",
+        "DA25"
+      ],
+      "searchTerms": "37 Axxess 37 Nissan/Subaru X123 DA25"
+    },
+    {
+      "id": "axxess-40",
+      "axxessNumber": "40",
+      "oemBrand": "Mazda",
+      "ilco": "X131",
+      "ilcoEz": "MZ13",
+      "notes": "",
+      "sourcePage": 2,
+      "description": "Axxess 40 cross reference",
+      "crossReferences": [
+        "Axxess 40",
+        "X131",
+        "MZ13"
+      ],
+      "searchTerms": "40 Axxess 40 Mazda X131 MZ13"
+    },
+    {
+      "id": "axxess-41",
+      "axxessNumber": "41",
+      "oemBrand": "Mazda",
+      "ilco": "X188",
+      "ilcoEz": "MZ17",
+      "notes": "",
+      "sourcePage": 2,
+      "description": "Axxess 41 cross reference",
+      "crossReferences": [
+        "Axxess 41",
+        "X188",
+        "MZ17"
+      ],
+      "searchTerms": "41 Axxess 41 Mazda X188 MZ17"
+    },
+    {
+      "id": "axxess-43",
+      "axxessNumber": "43",
+      "oemBrand": "Audi/Porsche/VW",
+      "ilco": "X9",
+      "ilcoEz": "73VB",
+      "notes": "",
+      "sourcePage": 2,
+      "description": "Axxess 43 cross reference",
+      "crossReferences": [
+        "Axxess 43",
+        "X9",
+        "73VB"
+      ],
+      "searchTerms": "43 Axxess 43 Audi/Porsche/VW X9 73VB"
+    },
+    {
+      "id": "axxess-46",
+      "axxessNumber": "46",
+      "oemBrand": "Volvo",
+      "ilco": "X80",
+      "ilcoEz": "VL6",
+      "notes": "",
+      "sourcePage": 2,
+      "description": "Axxess 46 cross reference",
+      "crossReferences": [
+        "Axxess 46",
+        "X80",
+        "VL6"
+      ],
+      "searchTerms": "46 Axxess 46 Volvo X80 VL6"
+    },
+    {
+      "id": "axxess-50",
+      "axxessNumber": "50",
+      "oemBrand": "Hyundai",
+      "ilco": "X160",
+      "ilcoEz": "HY2",
+      "notes": "",
+      "sourcePage": 2,
+      "description": "Axxess 50 cross reference",
+      "crossReferences": [
+        "Axxess 50",
+        "X160",
+        "HY2"
+      ],
+      "searchTerms": "50 Axxess 50 Hyundai X160 HY2"
+    },
+    {
+      "id": "axxess-51",
+      "axxessNumber": "51",
+      "oemBrand": "Chrysler/Mitsubishi",
+      "ilco": "X176",
+      "ilcoEz": "MIT1",
+      "notes": "",
+      "sourcePage": 2,
+      "description": "Axxess 51 cross reference",
+      "crossReferences": [
+        "Axxess 51",
+        "X176",
+        "MIT1"
+      ],
+      "searchTerms": "51 Axxess 51 Chrysler/Mitsubishi X176 MIT1"
+    },
+    {
+      "id": "axxess-52",
+      "axxessNumber": "52",
+      "oemBrand": "GEO",
+      "ilco": "X180",
+      "ilcoEz": "B69",
+      "notes": "",
+      "sourcePage": 2,
+      "description": "Axxess 52 cross reference",
+      "crossReferences": [
+        "Axxess 52",
+        "X180",
+        "B69"
+      ],
+      "searchTerms": "52 Axxess 52 GEO X180 B69"
+    },
+    {
+      "id": "axxess-56",
+      "axxessNumber": "56",
+      "oemBrand": "Hyundai",
+      "ilco": "HY6",
+      "ilcoEz": "X216",
+      "notes": "",
+      "sourcePage": 2,
+      "description": "Axxess 56 cross reference",
+      "crossReferences": [
+        "Axxess 56",
+        "HY6",
+        "X216"
+      ],
+      "searchTerms": "56 Axxess 56 Hyundai HY6 X216"
+    },
+    {
+      "id": "axxess-58",
+      "axxessNumber": "58",
+      "oemBrand": "Master",
+      "ilco": "1092H",
+      "ilcoEz": "M11",
+      "notes": "Master 17K",
+      "sourcePage": 2,
+      "description": "Axxess 58 cross reference",
+      "crossReferences": [
+        "Axxess 58",
+        "1092H",
+        "M11"
+      ],
+      "searchTerms": "58 Axxess 58 Master 1092H M11 Master 17K"
+    },
+    {
+      "id": "axxess-59",
+      "axxessNumber": "59",
+      "oemBrand": "Schlage",
+      "ilco": "A1145E",
+      "ilcoEz": "SC9",
+      "notes": "6-Pin \"E\"",
+      "sourcePage": 2,
+      "description": "Axxess 59 cross reference",
+      "crossReferences": [
+        "Axxess 59",
+        "A1145E",
+        "SC9"
+      ],
+      "searchTerms": "59 Axxess 59 Schlage A1145E SC9 6-Pin \"E\""
+    },
+    {
+      "id": "axxess-61",
+      "axxessNumber": "61",
+      "oemBrand": "Yale",
+      "ilco": "997E",
+      "ilcoEz": "Y52",
+      "notes": "5-Pin",
+      "sourcePage": 2,
+      "description": "Axxess 61 cross reference",
+      "crossReferences": [
+        "Axxess 61",
+        "997E",
+        "Y52"
+      ],
+      "searchTerms": "61 Axxess 61 Yale 997E Y52 5-Pin"
+    },
+    {
+      "id": "axxess-62",
+      "axxessNumber": "62",
+      "oemBrand": "Sargent",
+      "ilco": "01007LA",
+      "ilcoEz": "",
+      "notes": "6-Pin \"LA\"",
+      "sourcePage": 2,
+      "description": "Axxess 62 cross reference",
+      "crossReferences": [
+        "Axxess 62",
+        "01007LA"
+      ],
+      "searchTerms": "62 Axxess 62 Sargent 01007LA 6-Pin \"LA\""
+    },
+    {
+      "id": "axxess-63",
+      "axxessNumber": "63",
+      "oemBrand": "Corbin",
+      "ilco": "CO87",
+      "ilcoEz": "1001EH",
+      "notes": "5-Pin \"60\"",
+      "sourcePage": 2,
+      "description": "Axxess 63 cross reference",
+      "crossReferences": [
+        "Axxess 63",
+        "CO87",
+        "1001EH"
+      ],
+      "searchTerms": "63 Axxess 63 Corbin CO87 1001EH 5-Pin \"60\""
+    },
+    {
+      "id": "axxess-64",
+      "axxessNumber": "64",
+      "oemBrand": "Yale",
+      "ilco": "999A",
+      "ilcoEz": "Y2",
+      "notes": "6-Pin \"8\"",
+      "sourcePage": 2,
+      "description": "Axxess 64 cross reference",
+      "crossReferences": [
+        "Axxess 64",
+        "999A",
+        "Y2"
+      ],
+      "searchTerms": "64 Axxess 64 Yale 999A Y2 6-Pin \"8\""
+    },
+    {
+      "id": "axxess-66",
+      "axxessNumber": "66",
+      "oemBrand": "Kwikset",
+      "ilco": "1176",
+      "ilcoEz": "KW1",
+      "notes": "5-Pin",
+      "sourcePage": 2,
+      "description": "Axxess 66 cross reference",
+      "crossReferences": [
+        "Axxess 66",
+        "1176",
+        "KW1"
+      ],
+      "searchTerms": "66 Axxess 66 Kwikset 1176 KW1 5-Pin"
+    },
+    {
+      "id": "axxess-67",
+      "axxessNumber": "67",
+      "oemBrand": "Weiser",
+      "ilco": "X1054WA",
+      "ilcoEz": "WR2",
+      "notes": "5-Pin",
+      "sourcePage": 2,
+      "description": "Axxess 67 cross reference",
+      "crossReferences": [
+        "Axxess 67",
+        "X1054WA",
+        "WR2"
+      ],
+      "searchTerms": "67 Axxess 67 Weiser X1054WA WR2 5-Pin"
+    },
+    {
+      "id": "axxess-68",
+      "axxessNumber": "68",
+      "oemBrand": "Schlage",
+      "ilco": "1145",
+      "ilcoEz": "SC1",
+      "notes": "5-Pin \"C\"",
+      "sourcePage": 2,
+      "description": "Axxess 68 cross reference",
+      "crossReferences": [
+        "Axxess 68",
+        "1145",
+        "SC1"
+      ],
+      "searchTerms": "68 Axxess 68 Schlage 1145 SC1 5-Pin \"C\""
+    },
+    {
+      "id": "axxess-69",
+      "axxessNumber": "69",
+      "oemBrand": "Master",
+      "ilco": "1092",
+      "ilcoEz": "M1",
+      "notes": "Master 1K",
+      "sourcePage": 2,
+      "description": "Axxess 69 cross reference",
+      "crossReferences": [
+        "Axxess 69",
+        "1092",
+        "M1"
+      ],
+      "searchTerms": "69 Axxess 69 Master 1092 M1 Master 1K"
+    },
+    {
+      "id": "axxess-70",
+      "axxessNumber": "70",
+      "oemBrand": "Dexter",
+      "ilco": "D1054K",
+      "ilcoEz": "DE6",
+      "notes": "5-Pin",
+      "sourcePage": 2,
+      "description": "Axxess 70 cross reference",
+      "crossReferences": [
+        "Axxess 70",
+        "D1054K",
+        "DE6"
+      ],
+      "searchTerms": "70 Axxess 70 Dexter D1054K DE6 5-Pin"
+    },
+    {
+      "id": "axxess-71",
+      "axxessNumber": "71",
+      "oemBrand": "Yale",
+      "ilco": "999",
+      "ilcoEz": "Y1",
+      "notes": "5-Pin \"8\"",
+      "sourcePage": 2,
+      "description": "Axxess 71 cross reference",
+      "crossReferences": [
+        "Axxess 71",
+        "999",
+        "Y1"
+      ],
+      "searchTerms": "71 Axxess 71 Yale 999 Y1 5-Pin \"8\""
+    },
+    {
+      "id": "axxess-72",
+      "axxessNumber": "72",
+      "oemBrand": "Weslock",
+      "ilco": "1175",
+      "ilcoEz": "WK1",
+      "notes": "",
+      "sourcePage": 2,
+      "description": "Axxess 72 cross reference",
+      "crossReferences": [
+        "Axxess 72",
+        "1175",
+        "WK1"
+      ],
+      "searchTerms": "72 Axxess 72 Weslock 1175 WK1"
+    },
+    {
+      "id": "axxess-74",
+      "axxessNumber": "74",
+      "oemBrand": "National",
+      "ilco": "R1064D",
+      "ilcoEz": "NA6",
+      "notes": "",
+      "sourcePage": 2,
+      "description": "Axxess 74 cross reference",
+      "crossReferences": [
+        "Axxess 74",
+        "R1064D",
+        "NA6"
+      ],
+      "searchTerms": "74 Axxess 74 National R1064D NA6"
+    },
+    {
+      "id": "axxess-75",
+      "axxessNumber": "75",
+      "oemBrand": "Sargent",
+      "ilco": "1010N",
+      "ilcoEz": "S68",
+      "notes": "5-Pin \"S\"",
+      "sourcePage": 2,
+      "description": "Axxess 75 cross reference",
+      "crossReferences": [
+        "Axxess 75",
+        "1010N",
+        "S68"
+      ],
+      "searchTerms": "75 Axxess 75 Sargent 1010N S68 5-Pin \"S\""
+    },
+    {
+      "id": "axxess-76",
+      "axxessNumber": "76",
+      "oemBrand": "Eagle",
+      "ilco": "X1014F",
+      "ilcoEz": "EA27",
+      "notes": "5-Pin",
+      "sourcePage": 2,
+      "description": "Axxess 76 cross reference",
+      "crossReferences": [
+        "Axxess 76",
+        "X1014F",
+        "EA27"
+      ],
+      "searchTerms": "76 Axxess 76 Eagle X1014F EA27 5-Pin"
+    },
+    {
+      "id": "axxess-79",
+      "axxessNumber": "79",
+      "oemBrand": "Schlage",
+      "ilco": "1307W",
+      "ilcoEz": "SC22",
+      "notes": "Schlage Wafer",
+      "sourcePage": 2,
+      "description": "Axxess 79 cross reference",
+      "crossReferences": [
+        "Axxess 79",
+        "1307W",
+        "SC22"
+      ],
+      "searchTerms": "79 Axxess 79 Schlage 1307W SC22 Schlage Wafer"
+    },
+    {
+      "id": "axxess-80",
+      "axxessNumber": "80",
+      "oemBrand": "Yale",
+      "ilco": "O1122",
+      "ilcoEz": "Y11",
+      "notes": "",
+      "sourcePage": 2,
+      "description": "Axxess 80 cross reference",
+      "crossReferences": [
+        "Axxess 80",
+        "O1122",
+        "Y11"
+      ],
+      "searchTerms": "80 Axxess 80 Yale O1122 Y11"
+    },
+    {
+      "id": "axxess-81",
+      "axxessNumber": "81",
+      "oemBrand": "Ilco",
+      "ilco": "1054DL",
+      "ilcoEz": "IN35",
+      "notes": "5-Pin",
+      "sourcePage": 2,
+      "description": "Axxess 81 cross reference",
+      "crossReferences": [
+        "Axxess 81",
+        "1054DL",
+        "IN35"
+      ],
+      "searchTerms": "81 Axxess 81 Ilco 1054DL IN35 5-Pin"
+    },
+    {
+      "id": "axxess-82",
+      "axxessNumber": "82",
+      "oemBrand": "Schlage",
+      "ilco": "1307A",
+      "ilcoEz": "SC6",
+      "notes": "Schlage Wafer",
+      "sourcePage": 2,
+      "description": "Axxess 82 cross reference",
+      "crossReferences": [
+        "Axxess 82",
+        "1307A",
+        "SC6"
+      ],
+      "searchTerms": "82 Axxess 82 Schlage 1307A SC6 Schlage Wafer"
+    },
+    {
+      "id": "axxess-83",
+      "axxessNumber": "83",
+      "oemBrand": "Taylor",
+      "ilco": "1141GE",
+      "ilcoEz": "T7",
+      "notes": "",
+      "sourcePage": 2,
+      "description": "Axxess 83 cross reference",
+      "crossReferences": [
+        "Axxess 83",
+        "1141GE",
+        "T7"
+      ],
+      "searchTerms": "83 Axxess 83 Taylor 1141GE T7"
+    },
+    {
+      "id": "axxess-84",
+      "axxessNumber": "84",
+      "oemBrand": "XL Lock",
+      "ilco": "1180S",
+      "ilcoEz": "XL7",
+      "notes": "Letter Box",
+      "sourcePage": 2,
+      "description": "Axxess 84 cross reference",
+      "crossReferences": [
+        "Axxess 84",
+        "1180S",
+        "XL7"
+      ],
+      "searchTerms": "84 Axxess 84 XL Lock 1180S XL7 Letter Box"
+    },
+    {
+      "id": "axxess-85",
+      "axxessNumber": "85",
+      "oemBrand": "National",
+      "ilco": "1069LB",
+      "ilcoEz": "NA12",
+      "notes": "",
+      "sourcePage": 2,
+      "description": "Axxess 85 cross reference",
+      "crossReferences": [
+        "Axxess 85",
+        "1069LB",
+        "NA12"
+      ],
+      "searchTerms": "85 Axxess 85 National 1069LB NA12"
+    },
+    {
+      "id": "axxess-86",
+      "axxessNumber": "86",
+      "oemBrand": "Russwin",
+      "ilco": "1011D1",
+      "ilcoEz": "RU45",
+      "notes": "5-Pin",
+      "sourcePage": 3,
+      "description": "Axxess 86 cross reference",
+      "crossReferences": [
+        "Axxess 86",
+        "1011D1",
+        "RU45"
+      ],
+      "searchTerms": "86 Axxess 86 Russwin 1011D1 RU45 5-Pin"
+    },
+    {
+      "id": "axxess-87",
+      "axxessNumber": "87",
+      "oemBrand": "Bommer",
+      "ilco": "1003M",
+      "ilcoEz": "CO106",
+      "notes": "",
+      "sourcePage": 3,
+      "description": "Axxess 87 cross reference",
+      "crossReferences": [
+        "Axxess 87",
+        "1003M",
+        "CO106"
+      ],
+      "searchTerms": "87 Axxess 87 Bommer 1003M CO106"
+    },
+    {
+      "id": "axxess-88",
+      "axxessNumber": "88",
+      "oemBrand": "Lockwood",
+      "ilco": "1004",
+      "ilcoEz": "L1",
+      "notes": "",
+      "sourcePage": 3,
+      "description": "Axxess 88 cross reference",
+      "crossReferences": [
+        "Axxess 88",
+        "1004",
+        "L1"
+      ],
+      "searchTerms": "88 Axxess 88 Lockwood 1004 L1"
+    },
+    {
+      "id": "axxess-89",
+      "axxessNumber": "89",
+      "oemBrand": "Schlage",
+      "ilco": "1145E",
+      "ilcoEz": "SC8",
+      "notes": "5-Pin \"E\"",
+      "sourcePage": 3,
+      "description": "Axxess 89 cross reference",
+      "crossReferences": [
+        "Axxess 89",
+        "1145E",
+        "SC8"
+      ],
+      "searchTerms": "89 Axxess 89 Schlage 1145E SC8 5-Pin \"E\""
+    },
+    {
+      "id": "axxess-90",
+      "axxessNumber": "90",
+      "oemBrand": "Russwin",
+      "ilco": "1011P",
+      "ilcoEz": "RU4",
+      "notes": "5-Pin \"981\"",
+      "sourcePage": 3,
+      "description": "Axxess 90 cross reference",
+      "crossReferences": [
+        "Axxess 90",
+        "1011P",
+        "RU4"
+      ],
+      "searchTerms": "90 Axxess 90 Russwin 1011P RU4 5-Pin \"981\""
+    },
+    {
+      "id": "axxess-91",
+      "axxessNumber": "91",
+      "oemBrand": "American Lock",
+      "ilco": "1045",
+      "ilcoEz": "AM3",
+      "notes": "",
+      "sourcePage": 3,
+      "description": "Axxess 91 cross reference",
+      "crossReferences": [
+        "Axxess 91",
+        "1045",
+        "AM3"
+      ],
+      "searchTerms": "91 Axxess 91 American Lock 1045 AM3"
+    },
+    {
+      "id": "axxess-92",
+      "axxessNumber": "92",
+      "oemBrand": "Bommer",
+      "ilco": "R1003M",
+      "ilcoEz": "B01",
+      "notes": "",
+      "sourcePage": 3,
+      "description": "Axxess 92 cross reference",
+      "crossReferences": [
+        "Axxess 92",
+        "R1003M",
+        "B01"
+      ],
+      "searchTerms": "92 Axxess 92 Bommer R1003M B01"
+    },
+    {
+      "id": "axxess-93",
+      "axxessNumber": "93",
+      "oemBrand": "Master",
+      "ilco": "1092N",
+      "ilcoEz": "M10",
+      "notes": "Master 15K",
+      "sourcePage": 3,
+      "description": "Axxess 93 cross reference",
+      "crossReferences": [
+        "Axxess 93",
+        "1092N",
+        "M10"
+      ],
+      "searchTerms": "93 Axxess 93 Master 1092N M10 Master 15K"
+    },
+    {
+      "id": "axxess-94",
+      "axxessNumber": "94",
+      "oemBrand": "Arrow",
+      "ilco": "1179A",
+      "ilcoEz": "AR4",
+      "notes": "",
+      "sourcePage": 3,
+      "description": "Axxess 94 cross reference",
+      "crossReferences": [
+        "Axxess 94",
+        "1179A",
+        "AR4"
+      ],
+      "searchTerms": "94 Axxess 94 Arrow 1179A AR4"
+    },
+    {
+      "id": "axxess-95",
+      "axxessNumber": "95",
+      "oemBrand": "Schlage",
+      "ilco": "1145A",
+      "ilcoEz": "SC4",
+      "notes": "6-Pin \"C\"",
+      "sourcePage": 3,
+      "description": "Axxess 95 cross reference",
+      "crossReferences": [
+        "Axxess 95",
+        "1145A",
+        "SC4"
+      ],
+      "searchTerms": "95 Axxess 95 Schlage 1145A SC4 6-Pin \"C\""
+    },
+    {
+      "id": "axxess-97",
+      "axxessNumber": "97",
+      "oemBrand": "Kwikset",
+      "ilco": "A1176ST",
+      "ilcoEz": "KW10",
+      "notes": "",
+      "sourcePage": 3,
+      "description": "Axxess 97 cross reference",
+      "crossReferences": [
+        "Axxess 97",
+        "A1176ST",
+        "KW10"
+      ],
+      "searchTerms": "97 Axxess 97 Kwikset A1176ST KW10"
+    },
+    {
+      "id": "axxess-98",
+      "axxessNumber": "98",
+      "oemBrand": "Russwin",
+      "ilco": "A1011D1",
+      "ilcoEz": "RU46",
+      "notes": "6-Pin \"D1\"",
+      "sourcePage": 3,
+      "description": "Axxess 98 cross reference",
+      "crossReferences": [
+        "Axxess 98",
+        "A1011D1",
+        "RU46"
+      ],
+      "searchTerms": "98 Axxess 98 Russwin A1011D1 RU46 6-Pin \"D1\""
+    },
+    {
+      "id": "axxess-99",
+      "axxessNumber": "99",
+      "oemBrand": "Papaiz",
+      "ilco": "PZ1",
+      "ilcoEz": "",
+      "notes": "",
+      "sourcePage": 3,
+      "description": "Axxess 99 cross reference",
+      "crossReferences": [
+        "Axxess 99",
+        "PZ1"
+      ],
+      "searchTerms": "99 Axxess 99 Papaiz PZ1"
+    },
+    {
+      "id": "axxess-100",
+      "axxessNumber": "100",
+      "oemBrand": "Dexter",
+      "ilco": "D1054KA",
+      "ilcoEz": "DE8",
+      "notes": "6-Pin",
+      "sourcePage": 3,
+      "description": "Axxess 100 cross reference",
+      "crossReferences": [
+        "Axxess 100",
+        "D1054KA",
+        "DE8"
+      ],
+      "searchTerms": "100 Axxess 100 Dexter D1054KA DE8 6-Pin"
+    },
+    {
+      "id": "axxess-104",
+      "axxessNumber": "104",
+      "oemBrand": "Virro",
+      "ilco": "VR7/VR91AR",
+      "ilcoEz": "",
+      "notes": "",
+      "sourcePage": 3,
+      "description": "Axxess 104 cross reference",
+      "crossReferences": [
+        "Axxess 104",
+        "VR7/VR91AR"
+      ],
+      "searchTerms": "104 Axxess 104 Virro VR7/VR91AR"
+    },
+    {
+      "id": "axxess-106",
+      "axxessNumber": "106",
+      "oemBrand": "Lockwood",
+      "ilco": "1004N",
+      "ilcoEz": "L13",
+      "notes": "",
+      "sourcePage": 3,
+      "description": "Axxess 106 cross reference",
+      "crossReferences": [
+        "Axxess 106",
+        "1004N",
+        "L13"
+      ],
+      "searchTerms": "106 Axxess 106 Lockwood 1004N L13"
+    },
+    {
+      "id": "axxess-107",
+      "axxessNumber": "107",
+      "oemBrand": "National",
+      "ilco": "1069L",
+      "ilcoEz": "NA14",
+      "notes": "Letter Box",
+      "sourcePage": 3,
+      "description": "Axxess 107 cross reference",
+      "crossReferences": [
+        "Axxess 107",
+        "1069L",
+        "NA14"
+      ],
+      "searchTerms": "107 Axxess 107 National 1069L NA14 Letter Box"
+    },
+    {
+      "id": "axxess-110",
+      "axxessNumber": "110",
+      "oemBrand": "Abus",
+      "ilco": "AB62C",
+      "ilcoEz": "",
+      "notes": "4-Pin",
+      "sourcePage": 3,
+      "description": "Axxess 110 cross reference",
+      "crossReferences": [
+        "Axxess 110",
+        "AB62C"
+      ],
+      "searchTerms": "110 Axxess 110 Abus AB62C 4-Pin"
+    },
+    {
+      "id": "axxess-111",
+      "axxessNumber": "111",
+      "oemBrand": "American Lock",
+      "ilco": "A1045",
+      "ilcoEz": "",
+      "notes": "6-Pin",
+      "sourcePage": 3,
+      "description": "Axxess 111 cross reference",
+      "crossReferences": [
+        "Axxess 111",
+        "A1045"
+      ],
+      "searchTerms": "111 Axxess 111 American Lock A1045 6-Pin"
+    },
+    {
+      "id": "axxess-112",
+      "axxessNumber": "112",
+      "oemBrand": "Chicago",
+      "ilco": "101AM",
+      "ilcoEz": "AP1",
+      "notes": "",
+      "sourcePage": 3,
+      "description": "Axxess 112 cross reference",
+      "crossReferences": [
+        "Axxess 112",
+        "101AM",
+        "AP1"
+      ],
+      "searchTerms": "112 Axxess 112 Chicago 101AM AP1"
+    },
+    {
+      "id": "axxess-113",
+      "axxessNumber": "113",
+      "oemBrand": "Corbin",
+      "ilco": "1001EB",
+      "ilcoEz": "CO3",
+      "notes": "5-Pin 27-Series \"Master\"",
+      "sourcePage": 3,
+      "description": "Axxess 113 cross reference",
+      "crossReferences": [
+        "Axxess 113",
+        "1001EB",
+        "CO3"
+      ],
+      "searchTerms": "113 Axxess 113 Corbin 1001EB CO3 5-Pin 27-Series \"Master\""
+    },
+    {
+      "id": "axxess-114",
+      "axxessNumber": "114",
+      "oemBrand": "Corbin",
+      "ilco": "1001EN",
+      "ilcoEz": "CO7",
+      "notes": "6-Pin 67-Series \"Master\"",
+      "sourcePage": 3,
+      "description": "Axxess 114 cross reference",
+      "crossReferences": [
+        "Axxess 114",
+        "1001EN",
+        "CO7"
+      ],
+      "searchTerms": "114 Axxess 114 Corbin 1001EN CO7 6-Pin 67-Series \"Master\""
+    },
+    {
+      "id": "axxess-115",
+      "axxessNumber": "115",
+      "oemBrand": "Corbin",
+      "ilco": "A1001EH",
+      "ilcoEz": "CO88",
+      "notes": "6-Pin \"60\"",
+      "sourcePage": 3,
+      "description": "Axxess 115 cross reference",
+      "crossReferences": [
+        "Axxess 115",
+        "A1001EH",
+        "CO88"
+      ],
+      "searchTerms": "115 Axxess 115 Corbin A1001EH CO88 6-Pin \"60\""
+    },
+    {
+      "id": "axxess-116",
+      "axxessNumber": "116",
+      "oemBrand": "Corbin",
+      "ilco": "A1001ABM",
+      "ilcoEz": "CO89",
+      "notes": "6-Pin \"59AB\"",
+      "sourcePage": 3,
+      "description": "Axxess 116 cross reference",
+      "crossReferences": [
+        "Axxess 116",
+        "A1001ABM",
+        "CO89"
+      ],
+      "searchTerms": "116 Axxess 116 Corbin A1001ABM CO89 6-Pin \"59AB\""
+    },
+    {
+      "id": "axxess-118",
+      "axxessNumber": "118",
+      "oemBrand": "Ilco",
+      "ilco": "1054F",
+      "ilcoEz": "IN1",
+      "notes": "",
+      "sourcePage": 3,
+      "description": "Axxess 118 cross reference",
+      "crossReferences": [
+        "Axxess 118",
+        "1054F",
+        "IN1"
+      ],
+      "searchTerms": "118 Axxess 118 Ilco 1054F IN1"
+    },
+    {
+      "id": "axxess-120",
+      "axxessNumber": "120",
+      "oemBrand": "Master Lock",
+      "ilco": "1092-6000",
+      "ilcoEz": "M20",
+      "notes": "Master 6000",
+      "sourcePage": 3,
+      "description": "Axxess 120 cross reference",
+      "crossReferences": [
+        "Axxess 120",
+        "1092-6000",
+        "M20"
+      ],
+      "searchTerms": "120 Axxess 120 Master Lock 1092-6000 M20 Master 6000"
+    },
+    {
+      "id": "axxess-122",
+      "axxessNumber": "122",
+      "oemBrand": "National",
+      "ilco": "1069YM",
+      "ilcoEz": "",
+      "notes": "",
+      "sourcePage": 3,
+      "description": "Axxess 122 cross reference",
+      "crossReferences": [
+        "Axxess 122",
+        "1069YM"
+      ],
+      "searchTerms": "122 Axxess 122 National 1069YM"
+    },
+    {
+      "id": "axxess-123",
+      "axxessNumber": "123",
+      "oemBrand": "National",
+      "ilco": "1069N",
+      "ilcoEz": "RO3",
+      "notes": "",
+      "sourcePage": 3,
+      "description": "Axxess 123 cross reference",
+      "crossReferences": [
+        "Axxess 123",
+        "1069N",
+        "RO3"
+      ],
+      "searchTerms": "123 Axxess 123 National 1069N RO3"
+    },
+    {
+      "id": "axxess-124",
+      "axxessNumber": "124",
+      "oemBrand": "Sargent",
+      "ilco": "1010",
+      "ilcoEz": "S3",
+      "notes": "5-Pin \"U\"",
+      "sourcePage": 3,
+      "description": "Axxess 124 cross reference",
+      "crossReferences": [
+        "Axxess 124",
+        "1010",
+        "S3"
+      ],
+      "searchTerms": "124 Axxess 124 Sargent 1010 S3 5-Pin \"U\""
+    },
+    {
+      "id": "axxess-125",
+      "axxessNumber": "125",
+      "oemBrand": "Schlage",
+      "ilco": "1145F",
+      "ilcoEz": "SC7",
+      "notes": "5-Pin \"F\"",
+      "sourcePage": 3,
+      "description": "Axxess 125 cross reference",
+      "crossReferences": [
+        "Axxess 125",
+        "1145F",
+        "SC7"
+      ],
+      "searchTerms": "125 Axxess 125 Schlage 1145F SC7 5-Pin \"F\""
+    },
+    {
+      "id": "axxess-127",
+      "axxessNumber": "127",
+      "oemBrand": "Schlage",
+      "ilco": "A1145F",
+      "ilcoEz": "SC10",
+      "notes": "6-Pin \"F\"",
+      "sourcePage": 3,
+      "description": "Axxess 127 cross reference",
+      "crossReferences": [
+        "Axxess 127",
+        "A1145F",
+        "SC10"
+      ],
+      "searchTerms": "127 Axxess 127 Schlage A1145F SC10 6-Pin \"F\""
+    },
+    {
+      "id": "axxess-128",
+      "axxessNumber": "128",
+      "oemBrand": "Weiser",
+      "ilco": "1054WB",
+      "ilcoEz": "WR3",
+      "notes": "5-Pin",
+      "sourcePage": 3,
+      "description": "Axxess 128 cross reference",
+      "crossReferences": [
+        "Axxess 128",
+        "1054WB",
+        "WR3"
+      ],
+      "searchTerms": "128 Axxess 128 Weiser 1054WB WR3 5-Pin"
+    },
+    {
+      "id": "axxess-129",
+      "axxessNumber": "129",
+      "oemBrand": "Yale",
+      "ilco": "998",
+      "ilcoEz": "Y4",
+      "notes": "6-Pin",
+      "sourcePage": 4,
+      "description": "Axxess 129 cross reference",
+      "crossReferences": [
+        "Axxess 129",
+        "998",
+        "Y4"
+      ],
+      "searchTerms": "129 Axxess 129 Yale 998 Y4 6-Pin"
+    },
+    {
+      "id": "axxess-130",
+      "axxessNumber": "130",
+      "oemBrand": "Yale",
+      "ilco": "998GA",
+      "ilcoEz": "Y78",
+      "notes": "6-Pin \"GA\"",
+      "sourcePage": 4,
+      "description": "Axxess 130 cross reference",
+      "crossReferences": [
+        "Axxess 130",
+        "998GA",
+        "Y78"
+      ],
+      "searchTerms": "130 Axxess 130 Yale 998GA Y78 6-Pin \"GA\""
+    }
+  ]
+}
