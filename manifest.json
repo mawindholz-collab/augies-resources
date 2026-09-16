@@ -33,6 +33,14 @@
       "updatedAt": "2026-09-16",
       "recordCount": 2926,
       "url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/Motorcycle_Recreational_Resource_2026-09-16.json"
+    },
+    {
+      "id": "axxessCrossReference",
+      "name": "Axxess Key Blank Cross Reference",
+      "version": "2026-09-16-v1",
+      "updatedAt": "2026-09-16",
+      "recordCount": 94,
+      "url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/Axxess_Key_Blank_Cross_Reference_2026-09-16.json"
     }
   ]
 }
