@@ -17,6 +17,14 @@
       "updatedAt": "2026-09-16",
       "recordCount": 396,
       "url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/Transponder_Island_Resource_P90_FIXED.json"
+    },
+    {
+      "id": "constructionEquipment",
+      "name": "Construction Equipment",
+      "version": "ilco-2026-09-16-v1",
+      "updatedAt": "2026-09-16",
+      "recordCount": 316,
+      "url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/Construction_Equipment_Resource_2026-09-16.json"
     }
   ]
 }
