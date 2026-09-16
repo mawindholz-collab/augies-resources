@@ -1,0 +1,22 @@
+{
+  "manifestVersion": 1,
+  "updatedAt": "2026-09-16",
+  "resources": [
+    {
+      "id": "strattec",
+      "name": "STRATTEC",
+      "version": "seed-2026-09-16",
+      "updatedAt": "2026-09-16",
+      "recordCount": 25,
+      "url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/STRATTEC_Resource_P90.json"
+    },
+    {
+      "id": "transponderIsland",
+      "name": "Transponder Island",
+      "version": "initial-2006plus-2026-09-16",
+      "updatedAt": "2026-09-16",
+      "recordCount": 396,
+      "url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/Transponder_Island_Resource_P90_FIXED.json"
+    }
+  ]
+}
