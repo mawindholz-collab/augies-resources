@@ -25,6 +25,14 @@
       "updatedAt": "2026-09-16",
       "recordCount": 316,
       "url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/Construction_Equipment_Resource_2026-09-16.json"
+    },
+    {
+      "id": "motorcycleRecreational",
+      "name": "Motorcycle / Recreational",
+      "version": "ilco2022-jet2016-2026-09-16-v1",
+      "updatedAt": "2026-09-16",
+      "recordCount": 2926,
+      "url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/Motorcycle_Recreational_Resource_2026-09-16.json"
     }
   ]
 }
