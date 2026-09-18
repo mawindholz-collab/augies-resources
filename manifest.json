@@ -1,13 +1,13 @@
 {
   "manifestVersion": 1,
-  "updatedAt": "2026-09-16",
+  "updatedAt": "2026-09-18",
   "resources": [
     {
       "id": "strattec",
       "name": "STRATTEC",
-      "version": "seed-2026-09-16",
-      "updatedAt": "2026-09-16",
-      "recordCount": 25,
+      "version": "2026.1",
+      "updatedAt": "2026-09-18",
+      "recordCount": 372,
       "url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/STRATTEC_Resource_P90.json"
     },
     {
