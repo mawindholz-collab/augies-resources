@@ -1,0 +1,1668 @@
+{
+  "id": "strattecBriggsHistorical",
+  "name": "STRATTEC / Briggs Historical",
+  "version": "2026-09-18-v1",
+  "updatedAt": "2026-09-18",
+  "description": "Historical Briggs & Stratton automotive lock and key reference pages from the 1953–1961 compilation and 1987 catalog.",
+  "recordCount": 94,
+  "pageCount": 94,
+  "sources": [
+    "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+    "1987 Briggs & Stratton Automotive Lock & Key Catalog"
+  ],
+  "records": [
+    {
+      "id": "briggs-1953-1961-p0001",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "cover",
+      "year": null,
+      "makes": [],
+      "section": "Cover",
+      "description": "Automotive Lock and Key Catalog covering model years 1953 through 1961",
+      "pdf_page": 1,
+      "book_page": null,
+      "image_key": "briggs-1953-1961-p0001",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-01.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog Cover Automotive Lock and Key Catalog covering model years 1953 through 1961 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0002",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "index",
+      "year": null,
+      "makes": [],
+      "section": "Model Year Index",
+      "description": "Model-year index for the 1953–1961 catalog",
+      "pdf_page": 2,
+      "book_page": 1,
+      "image_key": "briggs-1953-1961-p0002",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-02.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog Model Year Index Model-year index for the 1953–1961 catalog page 1 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0003",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1953,
+      "makes": [
+        "Buick",
+        "Cadillac",
+        "Chevrolet"
+      ],
+      "section": "1953 Locks",
+      "description": "1953 lock and key application tables with illustrated components — Buick, Cadillac, Chevrolet",
+      "pdf_page": 3,
+      "book_page": 2,
+      "image_key": "briggs-1953-1961-p0003",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-03.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1953 1953 Locks 1953 lock and key application tables with illustrated components — Buick, Cadillac, Chevrolet Buick Cadillac Chevrolet page 2 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0004",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1953,
+      "makes": [
+        "Chevrolet",
+        "Chrysler",
+        "De Soto",
+        "Diamond T Truck",
+        "Dodge"
+      ],
+      "section": "1953 Locks",
+      "description": "1953 lock and key application tables with illustrated components — Chevrolet, Chrysler, De Soto, Diamond T Truck, Dodge",
+      "pdf_page": 4,
+      "book_page": 3,
+      "image_key": "briggs-1953-1961-p0004",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-04.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1953 1953 Locks 1953 lock and key application tables with illustrated components — Chevrolet, Chrysler, De Soto, Diamond T Truck, Dodge Chevrolet Chrysler De Soto Diamond T Truck Dodge page 3 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0005",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1953,
+      "makes": [
+        "Dodge",
+        "Federal Truck",
+        "Ford",
+        "GMC Truck",
+        "Harley-Davidson"
+      ],
+      "section": "1953 Locks",
+      "description": "1953 lock and key application tables with illustrated components — Dodge, Federal Truck, Ford, GMC Truck, Harley-Davidson",
+      "pdf_page": 5,
+      "book_page": 4,
+      "image_key": "briggs-1953-1961-p0005",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-05.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1953 1953 Locks 1953 lock and key application tables with illustrated components — Dodge, Federal Truck, Ford, GMC Truck, Harley-Davidson Dodge Federal Truck Ford GMC Truck Harley-Davidson page 4 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0006",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1953,
+      "makes": [
+        "Hudson",
+        "Indian Motorcycle",
+        "International Truck",
+        "Mercury",
+        "Lincoln",
+        "Nash"
+      ],
+      "section": "1953 Locks",
+      "description": "1953 lock and key application tables with illustrated components — Hudson, Indian Motorcycle, International Truck, Mercury, Lincoln, Nash",
+      "pdf_page": 6,
+      "book_page": 5,
+      "image_key": "briggs-1953-1961-p0006",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-06.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1953 1953 Locks 1953 lock and key application tables with illustrated components — Hudson, Indian Motorcycle, International Truck, Mercury, Lincoln, Nash Hudson Indian Motorcycle International Truck Mercury Lincoln Nash page 5 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0007",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1953,
+      "makes": [
+        "Nash",
+        "Oldsmobile",
+        "Packard"
+      ],
+      "section": "1953 Locks",
+      "description": "1953 lock and key application tables with illustrated components — Nash, Oldsmobile, Packard",
+      "pdf_page": 7,
+      "book_page": 6,
+      "image_key": "briggs-1953-1961-p0007",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-07.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1953 1953 Locks 1953 lock and key application tables with illustrated components — Nash, Oldsmobile, Packard Nash Oldsmobile Packard page 6 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0008",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1953,
+      "makes": [
+        "Plymouth",
+        "Pontiac",
+        "White Truck",
+        "Willys"
+      ],
+      "section": "1953 Locks",
+      "description": "1953 lock and key application tables with illustrated components — Plymouth, Pontiac, White Truck, Willys",
+      "pdf_page": 8,
+      "book_page": 7,
+      "image_key": "briggs-1953-1961-p0008",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-08.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1953 1953 Locks 1953 lock and key application tables with illustrated components — Plymouth, Pontiac, White Truck, Willys Plymouth Pontiac White Truck Willys page 7 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0009",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "separator",
+      "year": null,
+      "makes": [],
+      "section": "separator / blank page",
+      "description": "Separator or blank catalog page",
+      "pdf_page": 9,
+      "book_page": 8,
+      "image_key": "briggs-1953-1961-p0009",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-09.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog separator / blank page Separator or blank catalog page page 8 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0010",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "title_page",
+      "year": 1954,
+      "makes": [],
+      "section": "1954 Catalog Title",
+      "description": "Automotive Lock and Key Catalog 1954 listing title page",
+      "pdf_page": 10,
+      "book_page": 9,
+      "image_key": "briggs-1953-1961-p0010",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-10.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1954 1954 Catalog Title Automotive Lock and Key Catalog 1954 listing title page page 9 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0011",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1954,
+      "makes": [
+        "Buick",
+        "Cadillac",
+        "Chevrolet"
+      ],
+      "section": "1954 Locks",
+      "description": "1954 lock and key application tables with illustrated components — Buick, Cadillac, Chevrolet",
+      "pdf_page": 11,
+      "book_page": 10,
+      "image_key": "briggs-1953-1961-p0011",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-11.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1954 1954 Locks 1954 lock and key application tables with illustrated components — Buick, Cadillac, Chevrolet Buick Cadillac Chevrolet page 10 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0012",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1954,
+      "makes": [
+        "Chevrolet",
+        "Chrysler",
+        "De Soto",
+        "Diamond T Truck",
+        "Dodge",
+        "Federal Truck"
+      ],
+      "section": "1954 Locks",
+      "description": "1954 lock and key application tables with illustrated components — Chevrolet, Chrysler, De Soto, Diamond T Truck, Dodge, Federal Truck",
+      "pdf_page": 12,
+      "book_page": 11,
+      "image_key": "briggs-1953-1961-p0012",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-12.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1954 1954 Locks 1954 lock and key application tables with illustrated components — Chevrolet, Chrysler, De Soto, Diamond T Truck, Dodge, Federal Truck Chevrolet Chrysler De Soto Diamond T Truck Dodge Federal Truck page 11 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0013",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1954,
+      "makes": [
+        "Ford",
+        "GMC Truck",
+        "Harley-Davidson",
+        "Hudson",
+        "Indian Motorcycle"
+      ],
+      "section": "1954 Locks",
+      "description": "1954 lock and key application tables with illustrated components — Ford, GMC Truck, Harley-Davidson, Hudson, Indian Motorcycle",
+      "pdf_page": 13,
+      "book_page": 12,
+      "image_key": "briggs-1953-1961-p0013",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-13.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1954 1954 Locks 1954 lock and key application tables with illustrated components — Ford, GMC Truck, Harley-Davidson, Hudson, Indian Motorcycle Ford GMC Truck Harley-Davidson Hudson Indian Motorcycle page 12 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0014",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1954,
+      "makes": [
+        "International Truck",
+        "Mercury",
+        "Lincoln",
+        "Nash"
+      ],
+      "section": "1954 Locks",
+      "description": "1954 lock and key application tables with illustrated components — International Truck, Mercury, Lincoln, Nash",
+      "pdf_page": 14,
+      "book_page": 13,
+      "image_key": "briggs-1953-1961-p0014",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-14.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1954 1954 Locks 1954 lock and key application tables with illustrated components — International Truck, Mercury, Lincoln, Nash International Truck Mercury Lincoln Nash page 13 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0015",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1954,
+      "makes": [
+        "Oldsmobile",
+        "Packard",
+        "Plymouth"
+      ],
+      "section": "1954 Locks",
+      "description": "1954 lock and key application tables with illustrated components — Oldsmobile, Packard, Plymouth",
+      "pdf_page": 15,
+      "book_page": 14,
+      "image_key": "briggs-1953-1961-p0015",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-15.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1954 1954 Locks 1954 lock and key application tables with illustrated components — Oldsmobile, Packard, Plymouth Oldsmobile Packard Plymouth page 14 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0016",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1954,
+      "makes": [
+        "Pontiac",
+        "White Truck",
+        "Willys"
+      ],
+      "section": "1954 Locks",
+      "description": "1954 lock and key application tables with illustrated components — Pontiac, White Truck, Willys",
+      "pdf_page": 16,
+      "book_page": 15,
+      "image_key": "briggs-1953-1961-p0016",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-16.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1954 1954 Locks 1954 lock and key application tables with illustrated components — Pontiac, White Truck, Willys Pontiac White Truck Willys page 15 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0017",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "separator",
+      "year": null,
+      "makes": [],
+      "section": "separator / blank page",
+      "description": "Separator or blank catalog page",
+      "pdf_page": 17,
+      "book_page": 16,
+      "image_key": "briggs-1953-1961-p0017",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-17.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog separator / blank page Separator or blank catalog page page 16 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0018",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "title_page",
+      "year": 1955,
+      "makes": [],
+      "section": "1955 Catalog Title",
+      "description": "Automotive Lock and Key Catalog 1955 listing title page",
+      "pdf_page": 18,
+      "book_page": 17,
+      "image_key": "briggs-1953-1961-p0018",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-18.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1955 1955 Catalog Title Automotive Lock and Key Catalog 1955 listing title page page 17 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0019",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1955,
+      "makes": [
+        "Buick",
+        "Cadillac",
+        "Chevrolet"
+      ],
+      "section": "1955 Locks",
+      "description": "1955 lock and key application tables with illustrated components — Buick, Cadillac, Chevrolet",
+      "pdf_page": 19,
+      "book_page": 18,
+      "image_key": "briggs-1953-1961-p0019",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-19.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1955 1955 Locks 1955 lock and key application tables with illustrated components — Buick, Cadillac, Chevrolet Buick Cadillac Chevrolet page 18 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0020",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1955,
+      "makes": [
+        "Chevrolet",
+        "Chrysler",
+        "De Soto",
+        "Diamond T Truck",
+        "Dodge",
+        "Ford"
+      ],
+      "section": "1955 Locks",
+      "description": "1955 lock and key application tables with illustrated components — Chevrolet, Chrysler, De Soto, Diamond T Truck, Dodge, Ford",
+      "pdf_page": 20,
+      "book_page": 19,
+      "image_key": "briggs-1953-1961-p0020",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-20.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1955 1955 Locks 1955 lock and key application tables with illustrated components — Chevrolet, Chrysler, De Soto, Diamond T Truck, Dodge, Ford Chevrolet Chrysler De Soto Diamond T Truck Dodge Ford page 19 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0021",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1955,
+      "makes": [
+        "GMC Truck",
+        "Harley-Davidson",
+        "Hudson",
+        "International Truck"
+      ],
+      "section": "1955 Locks",
+      "description": "1955 lock and key application tables with illustrated components — GMC Truck, Harley-Davidson, Hudson, International Truck",
+      "pdf_page": 21,
+      "book_page": 20,
+      "image_key": "briggs-1953-1961-p0021",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-21.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1955 1955 Locks 1955 lock and key application tables with illustrated components — GMC Truck, Harley-Davidson, Hudson, International Truck GMC Truck Harley-Davidson Hudson International Truck page 20 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0022",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1955,
+      "makes": [
+        "Mercury",
+        "Lincoln",
+        "Nash",
+        "Oldsmobile"
+      ],
+      "section": "1955 Locks",
+      "description": "1955 lock and key application tables with illustrated components — Mercury, Lincoln, Nash, Oldsmobile",
+      "pdf_page": 22,
+      "book_page": 21,
+      "image_key": "briggs-1953-1961-p0022",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-22.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1955 1955 Locks 1955 lock and key application tables with illustrated components — Mercury, Lincoln, Nash, Oldsmobile Mercury Lincoln Nash Oldsmobile page 21 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0023",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1955,
+      "makes": [
+        "Packard",
+        "Plymouth",
+        "Pontiac",
+        "White Truck",
+        "Willys"
+      ],
+      "section": "1955 Locks",
+      "description": "1955 lock and key application tables with illustrated components — Packard, Plymouth, Pontiac, White Truck, Willys",
+      "pdf_page": 23,
+      "book_page": 22,
+      "image_key": "briggs-1953-1961-p0023",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-23.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1955 1955 Locks 1955 lock and key application tables with illustrated components — Packard, Plymouth, Pontiac, White Truck, Willys Packard Plymouth Pontiac White Truck Willys page 22 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0024",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "title_page",
+      "year": 1956,
+      "makes": [],
+      "section": "1956 Catalog Title",
+      "description": "Automotive Lock and Key Catalog 1956 listing title page",
+      "pdf_page": 24,
+      "book_page": 23,
+      "image_key": "briggs-1953-1961-p0024",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-24.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1956 1956 Catalog Title Automotive Lock and Key Catalog 1956 listing title page page 23 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0025",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1956,
+      "makes": [
+        "Buick",
+        "Cadillac"
+      ],
+      "section": "1956 Locks",
+      "description": "1956 lock and key application tables with illustrated components — Buick, Cadillac",
+      "pdf_page": 25,
+      "book_page": 24,
+      "image_key": "briggs-1953-1961-p0025",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-25.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1956 1956 Locks 1956 lock and key application tables with illustrated components — Buick, Cadillac Buick Cadillac page 24 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0026",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1956,
+      "makes": [
+        "Cadillac",
+        "Chevrolet",
+        "Chrysler",
+        "De Soto"
+      ],
+      "section": "1956 Locks",
+      "description": "1956 lock and key application tables with illustrated components — Cadillac, Chevrolet, Chrysler, De Soto",
+      "pdf_page": 26,
+      "book_page": 25,
+      "image_key": "briggs-1953-1961-p0026",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-26.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1956 1956 Locks 1956 lock and key application tables with illustrated components — Cadillac, Chevrolet, Chrysler, De Soto Cadillac Chevrolet Chrysler De Soto page 25 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0027",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1956,
+      "makes": [
+        "Diamond T Truck",
+        "Dodge",
+        "Ford",
+        "GMC Truck",
+        "Harley-Davidson",
+        "Hudson"
+      ],
+      "section": "1956 Locks",
+      "description": "1956 lock and key application tables with illustrated components — Diamond T Truck, Dodge, Ford, GMC Truck, Harley-Davidson, Hudson",
+      "pdf_page": 27,
+      "book_page": 26,
+      "image_key": "briggs-1953-1961-p0027",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-27.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1956 1956 Locks 1956 lock and key application tables with illustrated components — Diamond T Truck, Dodge, Ford, GMC Truck, Harley-Davidson, Hudson Diamond T Truck Dodge Ford GMC Truck Harley-Davidson Hudson page 26 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0028",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1956,
+      "makes": [
+        "Hudson",
+        "International Truck",
+        "Mack Truck",
+        "Mercury",
+        "Lincoln",
+        "Nash"
+      ],
+      "section": "1956 Locks",
+      "description": "1956 lock and key application tables with illustrated components — Hudson, International Truck, Mack Truck, Mercury, Lincoln, Nash",
+      "pdf_page": 28,
+      "book_page": 27,
+      "image_key": "briggs-1953-1961-p0028",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-28.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1956 1956 Locks 1956 lock and key application tables with illustrated components — Hudson, International Truck, Mack Truck, Mercury, Lincoln, Nash Hudson International Truck Mack Truck Mercury Lincoln Nash page 27 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0029",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1956,
+      "makes": [
+        "Oldsmobile",
+        "Packard",
+        "Plymouth"
+      ],
+      "section": "1956 Locks",
+      "description": "1956 lock and key application tables with illustrated components — Oldsmobile, Packard, Plymouth",
+      "pdf_page": 29,
+      "book_page": 28,
+      "image_key": "briggs-1953-1961-p0029",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-29.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1956 1956 Locks 1956 lock and key application tables with illustrated components — Oldsmobile, Packard, Plymouth Oldsmobile Packard Plymouth page 28 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0030",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1956,
+      "makes": [
+        "Pontiac",
+        "White Truck",
+        "Willys"
+      ],
+      "section": "1956 Locks",
+      "description": "1956 lock and key application tables with illustrated components — Pontiac, White Truck, Willys",
+      "pdf_page": 30,
+      "book_page": 29,
+      "image_key": "briggs-1953-1961-p0030",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-30.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1956 1956 Locks 1956 lock and key application tables with illustrated components — Pontiac, White Truck, Willys Pontiac White Truck Willys page 29 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0031",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "separator",
+      "year": null,
+      "makes": [],
+      "section": "separator / blank page",
+      "description": "Separator or blank catalog page",
+      "pdf_page": 31,
+      "book_page": 30,
+      "image_key": "briggs-1953-1961-p0031",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-31.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog separator / blank page Separator or blank catalog page page 30 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0032",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "title_page",
+      "year": 1957,
+      "makes": [],
+      "section": "1957 Catalog Title",
+      "description": "Automotive Lock and Key Catalog 1957 listing title page",
+      "pdf_page": 32,
+      "book_page": 31,
+      "image_key": "briggs-1953-1961-p0032",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-32.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1957 1957 Catalog Title Automotive Lock and Key Catalog 1957 listing title page page 31 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0033",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1957,
+      "makes": [
+        "Buick",
+        "Cadillac",
+        "Chevrolet"
+      ],
+      "section": "1957 Locks",
+      "description": "1957 lock and key application tables with illustrated components — Buick, Cadillac, Chevrolet",
+      "pdf_page": 33,
+      "book_page": 32,
+      "image_key": "briggs-1953-1961-p0033",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-33.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1957 1957 Locks 1957 lock and key application tables with illustrated components — Buick, Cadillac, Chevrolet Buick Cadillac Chevrolet page 32 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0034",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1957,
+      "makes": [
+        "Chevrolet",
+        "Diamond T Truck",
+        "Dodge",
+        "Ford",
+        "GMC Truck"
+      ],
+      "section": "1957 Locks",
+      "description": "1957 lock and key application tables with illustrated components — Chevrolet, Diamond T Truck, Dodge, Ford, GMC Truck",
+      "pdf_page": 34,
+      "book_page": 33,
+      "image_key": "briggs-1953-1961-p0034",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-34.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1957 1957 Locks 1957 lock and key application tables with illustrated components — Chevrolet, Diamond T Truck, Dodge, Ford, GMC Truck Chevrolet Diamond T Truck Dodge Ford GMC Truck page 33 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0035",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1957,
+      "makes": [
+        "GMC Truck",
+        "Harley-Davidson",
+        "Hudson",
+        "International Truck",
+        "Mack Truck"
+      ],
+      "section": "1957 Locks",
+      "description": "1957 lock and key application tables with illustrated components — GMC Truck, Harley-Davidson, Hudson, International Truck, Mack Truck",
+      "pdf_page": 35,
+      "book_page": 34,
+      "image_key": "briggs-1953-1961-p0035",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-35.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1957 1957 Locks 1957 lock and key application tables with illustrated components — GMC Truck, Harley-Davidson, Hudson, International Truck, Mack Truck GMC Truck Harley-Davidson Hudson International Truck Mack Truck page 34 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0036",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1957,
+      "makes": [
+        "Mercury",
+        "Lincoln",
+        "Nash",
+        "Oldsmobile",
+        "Packard",
+        "Plymouth"
+      ],
+      "section": "1957 Locks",
+      "description": "1957 lock and key application tables with illustrated components — Mercury, Lincoln, Nash, Oldsmobile, Packard, Plymouth",
+      "pdf_page": 36,
+      "book_page": 35,
+      "image_key": "briggs-1953-1961-p0036",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-36.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1957 1957 Locks 1957 lock and key application tables with illustrated components — Mercury, Lincoln, Nash, Oldsmobile, Packard, Plymouth Mercury Lincoln Nash Oldsmobile Packard Plymouth page 35 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0037",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1957,
+      "makes": [
+        "Pontiac",
+        "White Truck",
+        "Willys"
+      ],
+      "section": "1957 Locks",
+      "description": "1957 lock and key application tables with illustrated components — Pontiac, White Truck, Willys",
+      "pdf_page": 37,
+      "book_page": 36,
+      "image_key": "briggs-1953-1961-p0037",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-37.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1957 1957 Locks 1957 lock and key application tables with illustrated components — Pontiac, White Truck, Willys Pontiac White Truck Willys page 36 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0038",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "title_page",
+      "year": 1958,
+      "makes": [],
+      "section": "1958 Catalog Title",
+      "description": "Automotive Lock and Key Catalog 1958 listing title page",
+      "pdf_page": 38,
+      "book_page": 37,
+      "image_key": "briggs-1953-1961-p0038",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-38.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1958 1958 Catalog Title Automotive Lock and Key Catalog 1958 listing title page page 37 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0039",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1958,
+      "makes": [
+        "American Motors",
+        "Buick",
+        "Cadillac"
+      ],
+      "section": "1958 Locks",
+      "description": "1958 lock and key application tables with illustrated components — American Motors, Buick, Cadillac",
+      "pdf_page": 39,
+      "book_page": 38,
+      "image_key": "briggs-1953-1961-p0039",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-39.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1958 1958 Locks 1958 lock and key application tables with illustrated components — American Motors, Buick, Cadillac American Motors Buick Cadillac page 38 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0040",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1958,
+      "makes": [
+        "Cadillac",
+        "Chevrolet",
+        "Chrysler",
+        "De Soto"
+      ],
+      "section": "1958 Locks",
+      "description": "1958 lock and key application tables with illustrated components — Cadillac, Chevrolet, Chrysler, De Soto",
+      "pdf_page": 40,
+      "book_page": 39,
+      "image_key": "briggs-1953-1961-p0040",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-40.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1958 1958 Locks 1958 lock and key application tables with illustrated components — Cadillac, Chevrolet, Chrysler, De Soto Cadillac Chevrolet Chrysler De Soto page 39 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0041",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1958,
+      "makes": [
+        "Diamond T Truck",
+        "Dodge",
+        "Ford",
+        "GMC Truck",
+        "Harley-Davidson",
+        "International Truck",
+        "Lincoln"
+      ],
+      "section": "1958 Locks",
+      "description": "1958 lock and key application tables with illustrated components — Diamond T Truck, Dodge, Ford, GMC Truck, Harley-Davidson, International Truck, Lincoln",
+      "pdf_page": 41,
+      "book_page": 40,
+      "image_key": "briggs-1953-1961-p0041",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-41.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1958 1958 Locks 1958 lock and key application tables with illustrated components — Diamond T Truck, Dodge, Ford, GMC Truck, Harley-Davidson, International Truck, Lincoln Diamond T Truck Dodge Ford GMC Truck Harley-Davidson International Truck Lincoln page 40 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0042",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1958,
+      "makes": [
+        "Mack Truck",
+        "Mercury",
+        "Nash",
+        "Oldsmobile",
+        "Plymouth",
+        "Pontiac"
+      ],
+      "section": "1958 Locks",
+      "description": "1958 lock and key application tables with illustrated components — Mack Truck, Mercury, Nash, Oldsmobile, Plymouth, Pontiac",
+      "pdf_page": 42,
+      "book_page": 41,
+      "image_key": "briggs-1953-1961-p0042",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-42.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1958 1958 Locks 1958 lock and key application tables with illustrated components — Mack Truck, Mercury, Nash, Oldsmobile, Plymouth, Pontiac Mack Truck Mercury Nash Oldsmobile Plymouth Pontiac page 41 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0043",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1958,
+      "makes": [
+        "Pontiac",
+        "White Truck",
+        "Willys"
+      ],
+      "section": "1958 Locks",
+      "description": "1958 lock and key application tables with illustrated components — Pontiac, White Truck, Willys",
+      "pdf_page": 43,
+      "book_page": 42,
+      "image_key": "briggs-1953-1961-p0043",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-43.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1958 1958 Locks 1958 lock and key application tables with illustrated components — Pontiac, White Truck, Willys Pontiac White Truck Willys page 42 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0044",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "title_page",
+      "year": 1959,
+      "makes": [],
+      "section": "1959 Catalog Title",
+      "description": "Automotive Lock and Key Catalog 1959 listing title page",
+      "pdf_page": 44,
+      "book_page": 43,
+      "image_key": "briggs-1953-1961-p0044",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-44.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1959 1959 Catalog Title Automotive Lock and Key Catalog 1959 listing title page page 43 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0045",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "separator",
+      "year": 1959,
+      "makes": [],
+      "section": "1959 separator / blank page",
+      "description": "Separator or blank catalog page",
+      "pdf_page": 45,
+      "book_page": 44,
+      "image_key": "briggs-1953-1961-p0045",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-45.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1959 1959 separator / blank page Separator or blank catalog page page 44 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0046",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1959,
+      "makes": [
+        "American Motors",
+        "Buick"
+      ],
+      "section": "1959 Locks",
+      "description": "1959 lock and key application tables with illustrated components — American Motors, Buick",
+      "pdf_page": 46,
+      "book_page": 45,
+      "image_key": "briggs-1953-1961-p0046",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-46.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1959 1959 Locks 1959 lock and key application tables with illustrated components — American Motors, Buick American Motors Buick page 45 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0047",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1959,
+      "makes": [
+        "Cadillac",
+        "Chevrolet"
+      ],
+      "section": "1959 Locks",
+      "description": "1959 lock and key application tables with illustrated components — Cadillac, Chevrolet",
+      "pdf_page": 47,
+      "book_page": 46,
+      "image_key": "briggs-1953-1961-p0047",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-47.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1959 1959 Locks 1959 lock and key application tables with illustrated components — Cadillac, Chevrolet Cadillac Chevrolet page 46 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0048",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1959,
+      "makes": [
+        "Chevrolet",
+        "Chrysler",
+        "Dodge",
+        "Edsel",
+        "Ford"
+      ],
+      "section": "1959 Locks",
+      "description": "1959 lock and key application tables with illustrated components — Chevrolet, Chrysler, Dodge, Edsel, Ford",
+      "pdf_page": 48,
+      "book_page": 47,
+      "image_key": "briggs-1953-1961-p0048",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-48.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1959 1959 Locks 1959 lock and key application tables with illustrated components — Chevrolet, Chrysler, Dodge, Edsel, Ford Chevrolet Chrysler Dodge Edsel Ford page 47 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0049",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1959,
+      "makes": [
+        "GMC Truck",
+        "Harley-Davidson",
+        "International Truck",
+        "Lincoln",
+        "Mercury"
+      ],
+      "section": "1959 Locks",
+      "description": "1959 lock and key application tables with illustrated components — GMC Truck, Harley-Davidson, International Truck, Lincoln, Mercury",
+      "pdf_page": 49,
+      "book_page": 48,
+      "image_key": "briggs-1953-1961-p0049",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-49.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1959 1959 Locks 1959 lock and key application tables with illustrated components — GMC Truck, Harley-Davidson, International Truck, Lincoln, Mercury GMC Truck Harley-Davidson International Truck Lincoln Mercury page 48 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0050",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1959,
+      "makes": [
+        "Oldsmobile",
+        "Packard",
+        "Plymouth",
+        "Pontiac"
+      ],
+      "section": "1959 Locks",
+      "description": "1959 lock and key application tables with illustrated components — Oldsmobile, Packard, Plymouth, Pontiac",
+      "pdf_page": 50,
+      "book_page": 49,
+      "image_key": "briggs-1953-1961-p0050",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-50.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1959 1959 Locks 1959 lock and key application tables with illustrated components — Oldsmobile, Packard, Plymouth, Pontiac Oldsmobile Packard Plymouth Pontiac page 49 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0051",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1959,
+      "makes": [
+        "Pontiac",
+        "White Truck",
+        "Willys"
+      ],
+      "section": "1959 Locks",
+      "description": "1959 lock and key application tables with illustrated components — Pontiac, White Truck, Willys",
+      "pdf_page": 51,
+      "book_page": 50,
+      "image_key": "briggs-1953-1961-p0051",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-51.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1959 1959 Locks 1959 lock and key application tables with illustrated components — Pontiac, White Truck, Willys Pontiac White Truck Willys page 50 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0052",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "title_page",
+      "year": 1960,
+      "makes": [],
+      "section": "1960 Catalog Title",
+      "description": "Automotive Lock and Key Catalog 1960 listing title page",
+      "pdf_page": 52,
+      "book_page": 51,
+      "image_key": "briggs-1953-1961-p0052",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-52.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1960 1960 Catalog Title Automotive Lock and Key Catalog 1960 listing title page page 51 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0053",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "separator",
+      "year": 1960,
+      "makes": [],
+      "section": "1960 separator / blank page",
+      "description": "Separator or blank catalog page",
+      "pdf_page": 53,
+      "book_page": 52,
+      "image_key": "briggs-1953-1961-p0053",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-53.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1960 1960 separator / blank page Separator or blank catalog page page 52 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0054",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1960,
+      "makes": [
+        "American Motors",
+        "Buick"
+      ],
+      "section": "1960 Locks",
+      "description": "1960 lock and key application tables with illustrated components — American Motors, Buick",
+      "pdf_page": 54,
+      "book_page": 53,
+      "image_key": "briggs-1953-1961-p0054",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-54.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1960 1960 Locks 1960 lock and key application tables with illustrated components — American Motors, Buick American Motors Buick page 53 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0055",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1960,
+      "makes": [
+        "Cadillac",
+        "Chevrolet"
+      ],
+      "section": "1960 Locks",
+      "description": "1960 lock and key application tables with illustrated components — Cadillac, Chevrolet",
+      "pdf_page": 55,
+      "book_page": 54,
+      "image_key": "briggs-1953-1961-p0055",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-55.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1960 1960 Locks 1960 lock and key application tables with illustrated components — Cadillac, Chevrolet Cadillac Chevrolet page 54 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0056",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1960,
+      "makes": [
+        "Chevrolet",
+        "Corvair",
+        "Chrysler",
+        "Valiant",
+        "Dodge",
+        "Diamond T Truck",
+        "Edsel"
+      ],
+      "section": "1960 Locks",
+      "description": "1960 lock and key application tables with illustrated components — Chevrolet, Corvair, Chrysler, Valiant, Dodge, Diamond T Truck, Edsel",
+      "pdf_page": 56,
+      "book_page": 55,
+      "image_key": "briggs-1953-1961-p0056",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-56.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1960 1960 Locks 1960 lock and key application tables with illustrated components — Chevrolet, Corvair, Chrysler, Valiant, Dodge, Diamond T Truck, Edsel Chevrolet Corvair Chrysler Valiant Dodge Diamond T Truck Edsel page 55 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0057",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1960,
+      "makes": [
+        "Ford",
+        "GMC Truck",
+        "Harley-Davidson",
+        "International Truck",
+        "Lincoln",
+        "Mack Truck",
+        "Mercury"
+      ],
+      "section": "1960 Locks",
+      "description": "1960 lock and key application tables with illustrated components — Ford, GMC Truck, Harley-Davidson, International Truck, Lincoln, Mack Truck, Mercury",
+      "pdf_page": 57,
+      "book_page": 56,
+      "image_key": "briggs-1953-1961-p0057",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-57.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1960 1960 Locks 1960 lock and key application tables with illustrated components — Ford, GMC Truck, Harley-Davidson, International Truck, Lincoln, Mack Truck, Mercury Ford GMC Truck Harley-Davidson International Truck Lincoln Mack Truck Mercury page 56 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0058",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1960,
+      "makes": [
+        "Oldsmobile",
+        "Packard",
+        "Plymouth",
+        "Pontiac"
+      ],
+      "section": "1960 Locks",
+      "description": "1960 lock and key application tables with illustrated components — Oldsmobile, Packard, Plymouth, Pontiac",
+      "pdf_page": 58,
+      "book_page": 57,
+      "image_key": "briggs-1953-1961-p0058",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-58.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1960 1960 Locks 1960 lock and key application tables with illustrated components — Oldsmobile, Packard, Plymouth, Pontiac Oldsmobile Packard Plymouth Pontiac page 57 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0059",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1960,
+      "makes": [
+        "Pontiac",
+        "White Truck",
+        "Willys"
+      ],
+      "section": "1960 Locks",
+      "description": "1960 lock and key application tables with illustrated components — Pontiac, White Truck, Willys",
+      "pdf_page": 59,
+      "book_page": 58,
+      "image_key": "briggs-1953-1961-p0059",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-59.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1960 1960 Locks 1960 lock and key application tables with illustrated components — Pontiac, White Truck, Willys Pontiac White Truck Willys page 58 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0060",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "title_page",
+      "year": 1961,
+      "makes": [],
+      "section": "1961 Catalog Title",
+      "description": "Automotive Lock and Key Catalog 1961 listing title page",
+      "pdf_page": 60,
+      "book_page": 59,
+      "image_key": "briggs-1953-1961-p0060",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-60.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1961 1961 Catalog Title Automotive Lock and Key Catalog 1961 listing title page page 59 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0061",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "separator",
+      "year": 1961,
+      "makes": [],
+      "section": "1961 separator / blank page",
+      "description": "Separator or blank catalog page",
+      "pdf_page": 61,
+      "book_page": 60,
+      "image_key": "briggs-1953-1961-p0061",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-61.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1961 1961 separator / blank page Separator or blank catalog page page 60 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0062",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1961,
+      "makes": [
+        "American Motors",
+        "Buick"
+      ],
+      "section": "1961 Locks",
+      "description": "1961 lock and key application tables with illustrated components — American Motors, Buick",
+      "pdf_page": 62,
+      "book_page": 61,
+      "image_key": "briggs-1953-1961-p0062",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-62.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1961 1961 Locks 1961 lock and key application tables with illustrated components — American Motors, Buick American Motors Buick page 61 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0063",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1961,
+      "makes": [
+        "Buick",
+        "Cadillac",
+        "Chevrolet"
+      ],
+      "section": "1961 Locks",
+      "description": "1961 lock and key application tables with illustrated components — Buick, Cadillac, Chevrolet",
+      "pdf_page": 63,
+      "book_page": 62,
+      "image_key": "briggs-1953-1961-p0063",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-63.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1961 1961 Locks 1961 lock and key application tables with illustrated components — Buick, Cadillac, Chevrolet Buick Cadillac Chevrolet page 62 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0064",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1961,
+      "makes": [
+        "Chevrolet",
+        "Corvair",
+        "Corvette"
+      ],
+      "section": "1961 Locks",
+      "description": "1961 lock and key application tables with illustrated components — Chevrolet, Corvair, Corvette",
+      "pdf_page": 64,
+      "book_page": 63,
+      "image_key": "briggs-1953-1961-p0064",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-64.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1961 1961 Locks 1961 lock and key application tables with illustrated components — Chevrolet, Corvair, Corvette Chevrolet Corvair Corvette page 63 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0065",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1961,
+      "makes": [
+        "Chevrolet Truck",
+        "Chrysler",
+        "Valiant",
+        "De Soto",
+        "Dodge",
+        "Diamond T Truck"
+      ],
+      "section": "1961 Locks",
+      "description": "1961 lock and key application tables with illustrated components — Chevrolet Truck, Chrysler, Valiant, De Soto, Dodge, Diamond T Truck",
+      "pdf_page": 65,
+      "book_page": 64,
+      "image_key": "briggs-1953-1961-p0065",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-65.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1961 1961 Locks 1961 lock and key application tables with illustrated components — Chevrolet Truck, Chrysler, Valiant, De Soto, Dodge, Diamond T Truck Chevrolet Truck Chrysler Valiant De Soto Dodge Diamond T Truck page 64 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0066",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1961,
+      "makes": [
+        "Edsel",
+        "Ford",
+        "GMC Truck",
+        "Harley-Davidson",
+        "International Truck",
+        "Mack Truck",
+        "Oldsmobile"
+      ],
+      "section": "1961 Locks",
+      "description": "1961 lock and key application tables with illustrated components — Edsel, Ford, GMC Truck, Harley-Davidson, International Truck, Mack Truck, Oldsmobile",
+      "pdf_page": 66,
+      "book_page": 65,
+      "image_key": "briggs-1953-1961-p0066",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-66.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1961 1961 Locks 1961 lock and key application tables with illustrated components — Edsel, Ford, GMC Truck, Harley-Davidson, International Truck, Mack Truck, Oldsmobile Edsel Ford GMC Truck Harley-Davidson International Truck Mack Truck Oldsmobile page 65 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0067",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1961,
+      "makes": [
+        "Oldsmobile",
+        "Plymouth"
+      ],
+      "section": "1961 Locks",
+      "description": "1961 lock and key application tables with illustrated components — Oldsmobile, Plymouth",
+      "pdf_page": 67,
+      "book_page": 66,
+      "image_key": "briggs-1953-1961-p0067",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-67.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1961 1961 Locks 1961 lock and key application tables with illustrated components — Oldsmobile, Plymouth Oldsmobile Plymouth page 66 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0068",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1961,
+      "makes": [
+        "Plymouth",
+        "Pontiac"
+      ],
+      "section": "1961 Locks",
+      "description": "1961 lock and key application tables with illustrated components — Plymouth, Pontiac",
+      "pdf_page": 68,
+      "book_page": 67,
+      "image_key": "briggs-1953-1961-p0068",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-68.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1961 1961 Locks 1961 lock and key application tables with illustrated components — Plymouth, Pontiac Plymouth Pontiac page 67 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0069",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1961,
+      "makes": [
+        "Pontiac",
+        "White Truck",
+        "Willys"
+      ],
+      "section": "1961 Locks",
+      "description": "1961 lock and key application tables with illustrated components — Pontiac, White Truck, Willys",
+      "pdf_page": 69,
+      "book_page": 68,
+      "image_key": "briggs-1953-1961-p0069",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-69.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog 1961 1961 Locks 1961 lock and key application tables with illustrated components — Pontiac, White Truck, Willys Pontiac White Truck Willys page 68 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1953-1961-p0070",
+      "source": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog",
+      "record_type": "directory",
+      "year": null,
+      "makes": [],
+      "section": "Authorized Service Organization",
+      "description": "Authorized service organization directory",
+      "pdf_page": 70,
+      "book_page": 69,
+      "image_key": "briggs-1953-1961-p0070",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1953-1961/p-70.jpg",
+      "search_text": "1953–1961 Briggs & Stratton Automotive Lock and Key Catalog Authorized Service Organization Authorized service organization directory page 69 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0001",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "cover",
+      "year": 1987,
+      "makes": [],
+      "section": "Cover",
+      "description": "1987 Automotive Lock & Key Catalog cover",
+      "pdf_page": 1,
+      "book_page": null,
+      "image_key": "briggs-1987-p0001",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-01.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 Cover 1987 Automotive Lock & Key Catalog cover Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0002",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "index",
+      "year": 1987,
+      "makes": [],
+      "section": "Terms and Index",
+      "description": "1987 catalog terminology and make index",
+      "pdf_page": 2,
+      "book_page": null,
+      "image_key": "briggs-1987-p0002",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-02.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 Terms and Index 1987 catalog terminology and make index Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0003",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "AMC",
+        "Renault"
+      ],
+      "section": "1987 Locks — AMC, Renault",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components",
+      "pdf_page": 3,
+      "book_page": 1,
+      "image_key": "briggs-1987-p0003",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-03.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — AMC, Renault 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components AMC Renault page 1 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0004",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "GMC",
+        "Chevrolet Truck"
+      ],
+      "section": "1987 Locks — GMC, Chevrolet Truck",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components",
+      "pdf_page": 4,
+      "book_page": 2,
+      "image_key": "briggs-1987-p0004",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-04.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — GMC, Chevrolet Truck 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components GMC Chevrolet Truck page 2 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0005",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "Chrysler",
+        "Plymouth",
+        "Dodge"
+      ],
+      "section": "1987 Locks — Chrysler, Plymouth, Dodge",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components",
+      "pdf_page": 5,
+      "book_page": 3,
+      "image_key": "briggs-1987-p0005",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-05.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — Chrysler, Plymouth, Dodge 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components Chrysler Plymouth Dodge page 3 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0006",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "Chrysler",
+        "Plymouth",
+        "Dodge"
+      ],
+      "section": "1987 Locks — Chrysler, Plymouth, Dodge",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components",
+      "pdf_page": 6,
+      "book_page": 4,
+      "image_key": "briggs-1987-p0006",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-06.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — Chrysler, Plymouth, Dodge 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components Chrysler Plymouth Dodge page 4 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0007",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "Ford",
+        "Lincoln",
+        "Mercury"
+      ],
+      "section": "1987 Locks — Ford, Lincoln, Mercury",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components",
+      "pdf_page": 7,
+      "book_page": 5,
+      "image_key": "briggs-1987-p0007",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-07.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — Ford, Lincoln, Mercury 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components Ford Lincoln Mercury page 5 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0008",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "Ford",
+        "Lincoln",
+        "Mercury"
+      ],
+      "section": "1987 Locks — Ford, Lincoln, Mercury",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components",
+      "pdf_page": 8,
+      "book_page": 6,
+      "image_key": "briggs-1987-p0008",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-08.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — Ford, Lincoln, Mercury 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components Ford Lincoln Mercury page 6 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0009",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "Ford",
+        "General Motors"
+      ],
+      "section": "1987 Locks — Ford, General Motors",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components",
+      "pdf_page": 9,
+      "book_page": 7,
+      "image_key": "briggs-1987-p0009",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-09.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — Ford, General Motors 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components Ford General Motors page 7 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0010",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "General Motors",
+        "Chevrolet",
+        "Pontiac",
+        "Oldsmobile",
+        "Buick",
+        "Cadillac"
+      ],
+      "section": "1987 Locks — General Motors, Chevrolet, Pontiac, Oldsmobile, Buick, Cadillac",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components",
+      "pdf_page": 10,
+      "book_page": 8,
+      "image_key": "briggs-1987-p0010",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-10.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — General Motors, Chevrolet, Pontiac, Oldsmobile, Buick, Cadillac 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components General Motors Chevrolet Pontiac Oldsmobile Buick Cadillac page 8 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0011",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "General Motors"
+      ],
+      "section": "1987 Locks — General Motors",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components",
+      "pdf_page": 11,
+      "book_page": 9,
+      "image_key": "briggs-1987-p0011",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-11.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — General Motors 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components General Motors page 9 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0012",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "General Motors"
+      ],
+      "section": "1987 Locks — General Motors",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components",
+      "pdf_page": 12,
+      "book_page": 10,
+      "image_key": "briggs-1987-p0012",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-12.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — General Motors 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components General Motors page 10 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0013",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "General Motors"
+      ],
+      "section": "1987 Locks — General Motors",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components",
+      "pdf_page": 13,
+      "book_page": 11,
+      "image_key": "briggs-1987-p0013",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-13.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — General Motors 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components General Motors page 11 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0014",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "General Motors"
+      ],
+      "section": "1987 Locks — General Motors",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components",
+      "pdf_page": 14,
+      "book_page": 12,
+      "image_key": "briggs-1987-p0014",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-14.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — General Motors 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components General Motors page 12 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0015",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "General Motors"
+      ],
+      "section": "1987 Locks — General Motors",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components",
+      "pdf_page": 15,
+      "book_page": 13,
+      "image_key": "briggs-1987-p0015",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-15.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — General Motors 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components General Motors page 13 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0016",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "General Motors"
+      ],
+      "section": "1987 Locks — General Motors",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components",
+      "pdf_page": 16,
+      "book_page": 14,
+      "image_key": "briggs-1987-p0016",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-16.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — General Motors 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components General Motors page 14 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0017",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "General Motors"
+      ],
+      "section": "1987 Locks — General Motors",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components",
+      "pdf_page": 17,
+      "book_page": 15,
+      "image_key": "briggs-1987-p0017",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-17.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — General Motors 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components General Motors page 15 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0018",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "GMC",
+        "Chevrolet Truck"
+      ],
+      "section": "1987 Locks — GMC, Chevrolet Truck",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components; includes GM Truck & Bus model-symbol charts",
+      "pdf_page": 18,
+      "book_page": 16,
+      "image_key": "briggs-1987-p0018",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-18.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — GMC, Chevrolet Truck 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components; includes GM Truck & Bus model-symbol charts GMC Chevrolet Truck page 16 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0019",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "GMC",
+        "Chevrolet Truck"
+      ],
+      "section": "1987 Locks — GMC, Chevrolet Truck",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components; includes GM Truck & Bus model-symbol charts",
+      "pdf_page": 19,
+      "book_page": 17,
+      "image_key": "briggs-1987-p0019",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-19.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — GMC, Chevrolet Truck 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components; includes GM Truck & Bus model-symbol charts GMC Chevrolet Truck page 17 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0020",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "GMC",
+        "Chevrolet Truck"
+      ],
+      "section": "1987 Locks — GMC, Chevrolet Truck",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components",
+      "pdf_page": 20,
+      "book_page": 18,
+      "image_key": "briggs-1987-p0020",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-20.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — GMC, Chevrolet Truck 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components GMC Chevrolet Truck page 18 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0021",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "GMC",
+        "Chevrolet Truck"
+      ],
+      "section": "1987 Locks — GMC, Chevrolet Truck",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components",
+      "pdf_page": 21,
+      "book_page": 19,
+      "image_key": "briggs-1987-p0021",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-21.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — GMC, Chevrolet Truck 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components GMC Chevrolet Truck page 19 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0022",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "GMC",
+        "Chevrolet Truck"
+      ],
+      "section": "1987 Locks — GMC, Chevrolet Truck",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components",
+      "pdf_page": 22,
+      "book_page": 20,
+      "image_key": "briggs-1987-p0022",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-22.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — GMC, Chevrolet Truck 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components GMC Chevrolet Truck page 20 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0023",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "Navistar",
+        "Mack Truck"
+      ],
+      "section": "1987 Locks — Navistar, Mack Truck",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components",
+      "pdf_page": 23,
+      "book_page": 21,
+      "image_key": "briggs-1987-p0023",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-23.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — Navistar, Mack Truck 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components Navistar Mack Truck page 21 Briggs Stratton automotive lock key"
+    },
+    {
+      "id": "briggs-1987-p0024",
+      "source": "1987 Briggs & Stratton Automotive Lock & Key Catalog",
+      "record_type": "catalog_page",
+      "year": 1987,
+      "makes": [
+        "White Truck",
+        "Kenworth",
+        "Peterbilt",
+        "Freightliner"
+      ],
+      "section": "1987 Locks — White Truck, Kenworth, Peterbilt, Freightliner",
+      "description": "1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components",
+      "pdf_page": 24,
+      "book_page": 22,
+      "image_key": "briggs-1987-p0024",
+      "image_url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/images/strattec-briggs-historical/1987/p-24.jpg",
+      "search_text": "1987 Briggs & Stratton Automotive Lock & Key Catalog 1987 1987 Locks — White Truck, Kenworth, Peterbilt, Freightliner 1987 lock and key application tables with part numbers, key series/grooves, manufacturer numbers and illustrated components White Truck Kenworth Peterbilt Freightliner page 22 Briggs Stratton automotive lock key"
+    }
+  ]
+}
