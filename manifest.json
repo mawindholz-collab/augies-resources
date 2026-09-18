@@ -49,6 +49,14 @@
       "updatedAt": "2026-09-18",
       "recordCount": 942,
       "url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/STRATTEC_Big_Red_Book_Resource_2026-09-18.json?v=2026-09-18-v1"
+    },
+    {
+      "id": "strattecBriggsHistorical",
+      "name": "STRATTEC / Briggs Historical",
+      "version": "2026-09-18-production1",
+      "updatedAt": "2026-09-18",
+      "recordCount": 702,
+      "url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/STRATTEC_Briggs_Historical_Resource_2026-09-18.json?v=2026-09-18-production1"
     }
   ]
 }
