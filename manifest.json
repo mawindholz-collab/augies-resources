@@ -53,10 +53,10 @@
     {
       "id": "strattecBriggsHistorical",
       "name": "STRATTEC / Briggs Historical",
-      "version": "2026-09-18-production3-1956ford",
+      "version": "2026-09-18-production4-coverageaudit",
       "updatedAt": "2026-09-18",
-      "recordCount": 719,
-      "url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/STRATTEC_Briggs_Historical_Resource_2026-09-18_v2.json?v=2026-09-18-production3-1956ford"
+      "recordCount": 751,
+      "url": "https://raw.githubusercontent.com/mawindholz-collab/augies-resources/main/STRATTEC_Briggs_Historical_Resource_2026-09-18_v2.json?v=2026-09-18-production4-coverageaudit"
     }
   ]
 }
